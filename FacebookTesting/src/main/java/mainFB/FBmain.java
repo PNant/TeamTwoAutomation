@@ -7,39 +7,71 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import sun.java2d.cmm.Profile;
 
-public class FBmain extends CommonAPI {
+public abstract class FBmain extends CommonAPI {
     //Open Browser
-    public void launchFB();
+    public abstract void launchFB();
 
     //Validate Title Page
-    public void validateTitlePage();
+    public abstract void validateTitlePage();
 
     //Validate URL
-    public void validateURL();
+    public abstract void validateURL();
 
     //Print out the page source
-    public void validatePageSource();
+    public abstract void validatePageSource();
 
-    //Login with Incorrect Email and Correct Password
-    public void typeByID(String "email", String "abc123@hotmail.com");
-    public void typeByXpath(String "//*[@id='pass']", String "SocialMediaTeam2");
-    public void clickOnElement(String "//*[@id='u_0_2']");
-
-    //Login with Correct Email but Incorrect Password
-    public void typeByID(String "email", String "prisgray861@hotmail.com");
-    public void typeByXpath(String "//*[@id='pass']", String "abc123");
-    public void clickOnElement(String "//*[@id='u_0_2']");
-
-    //Login with correct credentials
-    public void typeByID(String "email", String "prisgray861@hotmail.com");
-    public void typeByXpath(String "pass", String "SocialMediaTeam2");
-    public void clickOnElement(String "//*[@id='u_0_2']");
-
+    public void IncorrectEmailCorrectPass(){
+       typeByID("email", "abc123@hotmail.com");
+       typeByXpath("//*[@id='pass']", "SocialMediaTeam2");
+       clickOnElement("//*[@id='u_0_2']");
+    }
+    public void CorrectEmailIncorrectPass(){
+       typeByID("email","prisgray861@hotmail.com");
+       typeByXpath("//*[@id='pass']","abc123");
+       clickOnElement("//*[@id='u_0_2']");
+    }
+    public void correctCredentials(){
+       typeByID("email","prisgray861@hotmail.com");
+       typeByXpath("pass","SocialMediaTeam2");
+       clickOnElement("//*[@id='u_0_2']");
+    }
     //Confirm Correct Profile Page
-    public void captureProfileName();
+    public abstract void captureProfileName();
 
     //Add Bio
-    public void clickOnElement(String "//*[@id=\'profile_intro_card_bio\']/div/div/a");
-    public void typeByXpath(String "//*[@id=\"profile_intro_card_bio\"]/div/div/form/textarea", String "My name is TeamTwo Social Media.");
-    public void clickOnElement(String "//*[@id=\"profile_intro_card_bio\"]/div/div/form/div/div[2]/div[2]/div/button[2]");
+    public void AddBio(){
+        clickOnElement("//*[@id=\'profile_intro_card_bio\']/div/div/a");
+        typeByXpath("//*[@id=\"profile_intro_card_bio\"]/div/div/form/textarea", "My name is TeamTwo Social Media.");
+        clickOnElement("//*[@id=\"profile_intro_card_bio\"]/div/div/form/div/div[2]/div[2]/div/button[2]");
+    }
+
+
+    //Type a post and submit
+
+    //Search friends
+
+    //Submit friend requests
+
+    //Respond to a friend request
+
+    //Delete a friend
+
+    //Comment on a friend's post
+
+    //Like a post
+
+    //Check Friend Requests and Validate
+
+    //Check Notifications and Validate
+
+    //Check Messages and Validate
+
+    //Delete a Picture
+
+    //Add Profile Picture
+
+    //Add Cover Photo
+
+    //Click on About and Validate
+
 }
