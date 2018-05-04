@@ -1,0 +1,7 @@
+reporting\ExtentManager.class
+reporting\ExtentTestManager.class
+reporting\ApplicationLog.class
+reporting\TestLogger.class
+utility\DataReader.class
+base\CommonAPI.class
+database\ConnectDB.class

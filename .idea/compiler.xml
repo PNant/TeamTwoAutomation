@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Amazon" />
+        <module name="Chase" />
+        <module name="FacebookTesting" />
+        <module name="Generic" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Amazon" target="1.5" />
+      <module name="Chase" target="1.5" />
+      <module name="FaceBookAutomation" target="1.5" />
+      <module name="FacebookTesting" target="1.5" />
+      <module name="Generic" target="1.5" />
+      <module name="TeamTwo" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
