@@ -19,6 +19,7 @@
         </dependency>
     </dependencies>
 </project>
+<!--
 <build>
 <plugins>
     <plugin>
@@ -40,4 +41,4 @@
         </configuration>
     </plugin>
 </plugins>
-</build>
+</build>-->

@@ -13,7 +13,6 @@
         <module>Amazon</module>
         <module>Chase</module>
         <module>FacebookTesting</module>
-        <module>FaceBookAutomation</module>
     </modules>
 
     <dependencyManagement>

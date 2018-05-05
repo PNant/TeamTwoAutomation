@@ -55,7 +55,7 @@ public abstract class FBmain extends CommonAPI {
     //Confirm correct friend and Submit, Else Navigate back
     public void confirmFriend(){
         String friendOne =  captureProfileName();
-        if(friendOne = "Michelle Sourdough"){
+        if(friendOne == "Michelle Sourdough"){
             clickOnElement("//*[@id='u_ps_fetchstream_19_0_3']/button[1]");
         }
         else{navigateBack();
@@ -63,7 +63,3 @@ public abstract class FBmain extends CommonAPI {
 
         }
     }
-}
-
-    //Click on About and Validate
-
