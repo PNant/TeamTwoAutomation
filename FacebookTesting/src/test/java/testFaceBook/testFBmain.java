@@ -5,7 +5,8 @@ import org.testng.annotations.Test;
 import reporting.TestLogger;
 
 public class testFBmain extends FBmain{
-    @Test
+
+    @Test(priority = 1, description = "TestLogInFunctionality")
     public void testWebsite(){
         TestLogger.log("Test running");
         browseWebsite();
