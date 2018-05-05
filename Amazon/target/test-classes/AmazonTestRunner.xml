@@ -1,20 +1,21 @@
+<!--
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="Amazon Automation Script " parallel="false">
 
-    <!--<parameter name="useCloudEnv" value="false"/>-->
-    <!--<parameter name="cloudEnvName" value="browserstack"/>-->
-    <!--<parameter name="os" value="OS X"/>-->
-    <!--<parameter name="os_version" value="Sierra"/>-->
-    <!--<parameter name="browserName" value="firefox"/>-->
-    <!--<parameter name="browserVersion" value="53.0"/>-->
+    &lt;!&ndash;<parameter name="useCloudEnv" value="false"/>&ndash;&gt;
+    &lt;!&ndash;<parameter name="cloudEnvName" value="browserstack"/>&ndash;&gt;
+    &lt;!&ndash;<parameter name="os" value="OS X"/>&ndash;&gt;
+    &lt;!&ndash;<parameter name="os_version" value="Sierra"/>&ndash;&gt;
+    &lt;!&ndash;<parameter name="browserName" value="firefox"/>&ndash;&gt;
+    &lt;!&ndash;<parameter name="browserVersion" value="53.0"/>&ndash;&gt;
     <parameter name="url" value="https://www.amazon.com"/>
 
     <test name = "Amazon Home">
         <classes>
-            <!--<class name="home.search.TestSearch"/>-->
+            &lt;!&ndash;<class name="home.search.TestSearch"/>&ndash;&gt;
         </classes>
     </test>
 
-</suite>
+</suite>-->
