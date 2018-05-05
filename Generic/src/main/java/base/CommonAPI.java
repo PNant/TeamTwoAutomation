@@ -1,6 +1,5 @@
 package base;
 
-import com.gargoylesoftware.htmlunit.Page;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.LogStatus;
 import org.apache.commons.io.FileUtils;
@@ -18,10 +17,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
-import reporting.ApplicationLog;
 import reporting.ExtentManager;
 import reporting.ExtentTestManager;
-import sun.java2d.cmm.Profile;
 
 import java.io.File;
 import java.io.IOException;
@@ -421,7 +418,8 @@ public class CommonAPI {
         driver.findElement(By.cssSelector(locator)).sendKeys(value);
     }
     //Confirm Profile Page/Capture the Profile name
-    public void captureProfileName (){
+    public String captureProfileName (){
         System.out.println(driver.findElement(By.xpath("//*[@id=\'fb-timeline-cover-name\']/a")).getAttribute("href"));
+        return null;
     }
 }

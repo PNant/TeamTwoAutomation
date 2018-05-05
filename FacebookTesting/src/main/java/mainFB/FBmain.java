@@ -1,11 +1,6 @@
 package mainFB;
 
 import base.CommonAPI;
-import com.gargoylesoftware.htmlunit.Page;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import sun.java2d.cmm.Profile;
 
 public abstract class FBmain extends CommonAPI {
     //Open Browser
@@ -35,22 +30,44 @@ public abstract class FBmain extends CommonAPI {
        typeByXpath("pass","SocialMediaTeam2");
        clickOnElement("//*[@id='u_0_2']");
     }
-    //Confirm Correct Profile Page
-    public abstract void captureProfileName();
-
+    //Click on Profile Name, css Selector
+    public void enterProfile(){
+        clickOnElement("span._1vp5.f_click ");
+    }
+   //Confirm Correct Profile Page
+    public abstract String captureProfileName();
     //Add Bio
     public void AddBio(){
         clickOnElement("//*[@id=\'profile_intro_card_bio\']/div/div/a");
         typeByXpath("//*[@id=\"profile_intro_card_bio\"]/div/div/form/textarea", "My name is TeamTwo Social Media.");
         clickOnElement("//*[@id=\"profile_intro_card_bio\"]/div/div/form/div/div[2]/div[2]/div/button[2]");
     }
-
-
     //Type a post and submit
-
+    public void submitPost(){
+        typeByCSS("div._1mf._1mj", "It is Spring. It is 85 degrees today.");
+        clickOnElement("//*[@id='js_u7']/div[2]/div[3]/div[2]/span/button/span");
+    }
     //Search friends
+    public void searchFriends(){
+        typeByXpath("//*[@id='js_1l']","Michelle Sourdough");
+        clickOnElement("//*[@id=\"js_1y0\"]/div");
+    }
+    //Confirm correct friend and Submit, Else Navigate back
+    public void confirmFriend(){
+        String friendOne =  captureProfileName();
 
-    //Submit friend requests
+        if(friendOne = "Michelle Sourdough"){
+            clickOnElement("//*[@id='u_ps_fetchstream_19_0_3']/button[1]");
+        }
+        else{navigateBack();
+        }
+
+        }
+    }
+
+
+
+
 
     //Respond to a friend request
 
