@@ -1,6 +1,7 @@
 package mainFB;
 
 import base.CommonAPI;
+import org.openqa.selenium.By;
 
 public abstract class FBmain extends CommonAPI {
     //Open Browser
@@ -36,6 +37,7 @@ public abstract class FBmain extends CommonAPI {
     }
    //Confirm Correct Profile Page
     public abstract String captureProfileName();
+
     //Add Bio
     public void AddBio(){
         clickOnElement("//*[@id=\'profile_intro_card_bio\']/div/div/a");

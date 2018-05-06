@@ -419,7 +419,7 @@ public class CommonAPI {
     }
     //Confirm Profile Page/Capture the Profile name
     public String captureProfileName (){
-        System.out.println(driver.findElement(By.xpath("//*[@id=\'fb-timeline-cover-name\']/a")).getAttribute("href"));
-        return null;
+        String profileName = driver.findElement(By.xpath("//*[@id=\'fb-timeline-cover-name\']/a")).getAttribute("href");
+        return profileName;
     }
 }

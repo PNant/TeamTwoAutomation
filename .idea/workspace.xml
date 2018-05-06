@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9d9dfc7-461a-4289-ba50-ecc51142afba" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/mainJava/MainBrowser.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" afterPath="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,23 +25,21 @@
       <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="99" column="131" lean-forward="false" selection-start-line="99" selection-start-column="66" selection-end-line="100" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="173">
+              <caret line="164" column="5" lean-forward="true" selection-start-line="161" selection-start-column="4" selection-end-line="164" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testFBmain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testFBmain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state relative-caret-position="614">
+              <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
               <folding>
-                <element signature="e#1498#1499#0" expanded="true" />
-                <element signature="e#1551#1552#0" expanded="true" />
-                <element signature="e#1662#1663#0" expanded="true" />
-                <element signature="e#1689#1690#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1854#1855#0" expanded="true" />
+                <element signature="e#1889#1890#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,8 +49,7 @@
         <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -60,8 +58,7 @@
         <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="850">
-              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-              <folding />
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -70,8 +67,7 @@
         <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/resources/facebookTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-              <folding />
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -80,8 +76,7 @@
         <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonSearchTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
+              <caret line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -90,8 +85,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
-              <caret line="33" column="25" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="33" selection-end-column="25" />
-              <folding />
+              <caret line="33" column="25" selection-start-line="29" selection-start-column="12" selection-end-line="33" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -99,9 +93,10 @@
       <file leaf-file-name="FBmain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+            <state relative-caret-position="180">
+              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#1013#1014#0" expanded="true" />
                 <element signature="e#1066#1067#0" expanded="true" />
               </folding>
@@ -109,12 +104,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="facebookFriends.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="facebookFriends.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -123,8 +117,7 @@
         <entry file="file://$PROJECT_DIR$/FacebookTesting/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="969">
-              <caret line="57" column="29" lean-forward="false" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
-              <folding />
+              <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -147,6 +140,7 @@
       <find>browse</find>
       <find>typeby</find>
       <find>back</find>
+      <find>quit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,7 +154,6 @@
         <option value="$PROJECT_DIR$/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/database/ConnectDB.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonSearchTestRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/mainJava/MainBrowser.java" />
@@ -171,8 +164,9 @@
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/facebookTestRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/FacebookTesting/pom.xml" />
-        <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/resources/facebookTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" />
       </list>
     </option>
@@ -209,27 +203,19 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-18" />
-    <option name="width" value="675" />
+    <option name="width" value="958" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -304,20 +290,52 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Group8-kowser" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20114942" />
@@ -351,28 +369,14 @@
   </component>
   <component name="RunManager" selected="TestNG.testFBmain">
     <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
-      <option name="HEIGHT" value="0" />
-      <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
@@ -382,12 +386,10 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
-      <envs />
       <patterns />
     </configuration>
     <configuration name="FacebookTesting [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
@@ -404,6 +406,7 @@
                 <option value="test" />
               </list>
             </option>
+            <option name="pomFileName" />
             <option name="profilesMap">
               <map />
             </option>
@@ -413,15 +416,7 @@
         </option>
       </MavenSettings>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="FacebookTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -435,20 +430,16 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
     <configuration name="&lt;default&gt; (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="FacebookTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -462,20 +453,16 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
     <configuration name="&lt;default&gt;" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="FacebookTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -489,21 +476,16 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -516,26 +498,23 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
     </configuration>
     <configuration name="testFBmain" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
+      <module name="FacebookTesting" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="testFaceBook.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="FacebookTesting" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
@@ -548,17 +527,21 @@
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <option name="USE_DEFAULT_REPORTERS" value="false" />
       <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -566,20 +549,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Maven.FacebookTesting [test]" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookTestRunner.xml" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.testFBmain" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (1)" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
+    <list>
+      <item itemvalue="Maven.FacebookTesting [test]" />
+      <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookTestRunner.xml" />
+      <item itemvalue="TestNG.testFBmain" />
+      <item itemvalue="TestNG.&lt;default&gt; (1)" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.testFBmain" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.&lt;default&gt;" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.&lt;default&gt; (1)" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookTestRunner.xml" />
-        <item index="4" class="java.lang.String" itemvalue="Maven.FacebookTesting [test]" />
+      <list>
+        <item itemvalue="TestNG.testFBmain" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.&lt;default&gt; (1)" />
+        <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookTestRunner.xml" />
+        <item itemvalue="Maven.FacebookTesting [test]" />
       </list>
     </recent_temporary>
   </component>
@@ -587,9 +570,6 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -601,13 +581,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525017696984</updated>
+      <workItem from="1525622250105" duration="7251000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__PeopleNTech_develop_TeamTwo_Amazon_src_test_resources_AmazonSearchTestRunner_xml - 2018.05.05 at 09h 31m 55s.xml">
-      <configuration name="C:/PeopleNTech/develop/TeamTwo/Amazon/src/test/resources/AmazonSearchTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_FacebookTesting_src_test_resources_facebookTestRunner_xml - 2018.05.05 at 20h 13m 43s.xml">
       <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookTestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -635,40 +613,46 @@
     <history-entry file="testFBmain - 2018.05.06 at 11h 39m 40s.xml">
       <configuration name="testFBmain" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="testFBmain - 2018.05.06 at 11h 58m 15s.xml">
+      <configuration name="testFBmain" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16000" />
+    <option name="totallyTimeSpent" value="7267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29954615" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.118003026" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21669106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.093797274" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.29954615" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0892587" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32980332" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18814056" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.093797274" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Learn" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -689,14 +673,14 @@
       </breakpoints>
       <option name="time" value="3" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1013#1014#0" expanded="true" />
             <element signature="e#1066#1067#0" expanded="true" />
           </folding>
@@ -706,110 +690,51 @@
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1411">
-          <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-          <folding />
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5117">
-          <caret line="344" column="0" lean-forward="false" selection-start-line="344" selection-start-column="0" selection-end-line="344" selection-end-column="0" />
-          <folding>
-            <marker date="1524454097173" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1524454097173" expanded="false" signature="143:1740" ph="..." />
-            <marker date="1524454097173" expanded="true" signature="2960:3330" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="3409:3693" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="3922:4437" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="4580:4698" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="4880:7963" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="8053:8190" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="8350:8538" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="8717:9382" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="9549:11256" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="11331:11839" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="11948:13632" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="13691:13779" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="13839:14307" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="14475:15996" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="16091:16240" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="16319:16430" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="16548:16975" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="17018:17122" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="17384:31214" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="31282:31372" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="31444:31937" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="32195:32356" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="32514:33193" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="33350:34911" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="35166:35867" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="36041:46529" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="46641:46913" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="47081:47589" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="47741:48839" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="48990:49787" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="49923:49984" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="50045:50156" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="50337:51636" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="51717:53273" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="53365:53979" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="54067:54940" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="55039:55431" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="55508:55788" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="55834:55928" ph="{...}" />
-            <marker date="1524454097173" expanded="false" signature="55973:55984" ph=" { " />
-            <marker date="1524454097173" expanded="false" signature="56054:56060" ph=" }" />
-            <marker date="1524454097173" expanded="true" signature="56154:56371" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="56189:56200" ph="{}" />
-            <marker date="1524454097173" expanded="true" signature="56265:56365" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="56467:56644" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="56504:56515" ph="{}" />
-            <marker date="1524454097173" expanded="false" signature="56579:56594" ph=" { " />
-            <marker date="1524454097173" expanded="false" signature="56628:56638" ph=" }" />
-            <marker date="1524454097173" expanded="true" signature="56676:56723" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="56763:56893" ph="{...}" />
-            <marker date="1524454097173" expanded="false" signature="56841:56856" ph=" { " />
-            <marker date="1524454097173" expanded="false" signature="56877:56887" ph=" }" />
-            <marker date="1524454097173" expanded="true" signature="56927:57050" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="57033:57044" ph="{}" />
-          </folding>
+          <caret line="344" selection-start-line="344" selection-end-line="344" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/database/ConnectDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3519">
-          <caret line="221" column="100" lean-forward="false" selection-start-line="221" selection-start-column="100" selection-end-line="221" selection-end-column="100" />
+          <caret line="221" column="100" selection-start-line="221" selection-start-column="100" selection-end-line="221" selection-end-column="100" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/mainJava/MainBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
@@ -817,14 +742,14 @@
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonSearchTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -833,24 +758,18 @@
         <state relative-caret-position="170">
           <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -858,15 +777,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chase/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="38" lean-forward="true" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -874,17 +791,16 @@
     <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="19" selection-end-column="19" />
-          <folding />
+          <caret line="19" column="19" selection-start-line="13" selection-start-column="2" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/mainJava/MainBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
@@ -892,9 +808,9 @@
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testJava/TestBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
@@ -902,32 +818,28 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding />
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding />
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -936,7 +848,7 @@
         <state relative-caret-position="300">
           <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
@@ -946,7 +858,7 @@
         <state relative-caret-position="360">
           <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
@@ -956,108 +868,49 @@
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentTestManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/database/ConnectDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3519">
-          <caret line="221" column="100" lean-forward="false" selection-start-line="221" selection-start-column="100" selection-end-line="221" selection-end-column="100" />
+          <caret line="221" column="100" selection-start-line="221" selection-start-column="100" selection-end-line="221" selection-end-column="100" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5117">
-          <caret line="344" column="0" lean-forward="false" selection-start-line="344" selection-start-column="0" selection-end-line="344" selection-end-column="0" />
-          <folding>
-            <marker date="1524454097173" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1524454097173" expanded="false" signature="143:1740" ph="..." />
-            <marker date="1524454097173" expanded="true" signature="2960:3330" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="3409:3693" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="3922:4437" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="4580:4698" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="4880:7963" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="8053:8190" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="8350:8538" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="8717:9382" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="9549:11256" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="11331:11839" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="11948:13632" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="13691:13779" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="13839:14307" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="14475:15996" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="16091:16240" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="16319:16430" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="16548:16975" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="17018:17122" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="17384:31214" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="31282:31372" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="31444:31937" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="32195:32356" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="32514:33193" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="33350:34911" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="35166:35867" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="36041:46529" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="46641:46913" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="47081:47589" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="47741:48839" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="48990:49787" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="49923:49984" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="50045:50156" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="50337:51636" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="51717:53273" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="53365:53979" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="54067:54940" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="55039:55431" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="55508:55788" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="55834:55928" ph="{...}" />
-            <marker date="1524454097173" expanded="false" signature="55973:55984" ph=" { " />
-            <marker date="1524454097173" expanded="false" signature="56054:56060" ph=" }" />
-            <marker date="1524454097173" expanded="true" signature="56154:56371" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="56189:56200" ph="{}" />
-            <marker date="1524454097173" expanded="true" signature="56265:56365" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="56467:56644" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="56504:56515" ph="{}" />
-            <marker date="1524454097173" expanded="false" signature="56579:56594" ph=" { " />
-            <marker date="1524454097173" expanded="false" signature="56628:56638" ph=" }" />
-            <marker date="1524454097173" expanded="true" signature="56676:56723" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="56763:56893" ph="{...}" />
-            <marker date="1524454097173" expanded="false" signature="56841:56856" ph=" { " />
-            <marker date="1524454097173" expanded="false" signature="56877:56887" ph=" }" />
-            <marker date="1524454097173" expanded="true" signature="56927:57050" ph="{...}" />
-            <marker date="1524454097173" expanded="true" signature="57033:57044" ph="{}" />
-          </folding>
+          <caret line="344" selection-start-line="344" selection-end-line="344" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chase/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
-          <folding />
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1066,23 +919,19 @@
     <entry file="file://$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4250">
-          <caret line="250" column="72" lean-forward="false" selection-start-line="250" selection-start-column="72" selection-end-line="250" selection-end-column="72" />
+          <caret line="250" column="72" selection-start-line="250" selection-start-column="72" selection-end-line="250" selection-end-column="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/screenshots/testLogin (05.03.2018-22">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testJava/TestBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+          <caret line="19" column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
@@ -1090,9 +939,9 @@
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/mainJava/MainBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
@@ -1100,96 +949,87 @@
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonSearchTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
+          <caret line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FacebookTesting/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
-          <caret line="57" column="29" lean-forward="false" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
-          <folding />
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
-          <caret line="33" column="25" lean-forward="false" selection-start-line="29" selection-start-column="12" selection-end-line="33" selection-end-column="25" />
-          <folding />
+          <caret line="33" column="25" selection-start-line="29" selection-start-column="12" selection-end-line="33" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/resources/facebookTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="99" column="131" lean-forward="false" selection-start-line="99" selection-start-column="66" selection-end-line="100" selection-end-column="39" />
-          <folding />
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        <state relative-caret-position="180">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1013#1014#0" expanded="true" />
             <element signature="e#1066#1067#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="164" column="5" lean-forward="true" selection-start-line="161" selection-start-column="4" selection-end-line="164" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="614">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
           <folding>
-            <element signature="e#1498#1499#0" expanded="true" />
-            <element signature="e#1551#1552#0" expanded="true" />
-            <element signature="e#1662#1663#0" expanded="true" />
-            <element signature="e#1689#1690#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1854#1855#0" expanded="true" />
+            <element signature="e#1889#1890#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
