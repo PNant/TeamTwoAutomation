@@ -6,10 +6,10 @@
      <parameter name="useCloudEnv" value="false"/>
      <parameter name="cloudEnvName" value="browserstack"/>
      <parameter name="os" value="Windows"/>
-     <parameter name="os_version" value="Sierra"/>
+     <parameter name="os_version" value="10"/>
      <parameter name="browserName" value="chrome"/>
      <parameter name="browserVersion" value="53.0"/>
-     <parameter name="url" value="https://www.amazon.com"/>
+     <parameter name="url" value="https://www.facebook.com"/>
 
      <test name = "testFBmain">
          <classes>
