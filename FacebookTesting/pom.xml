@@ -11,6 +11,12 @@
 
     <artifactId>FacebookTesting</artifactId>
 
+    <properties>
+        <project.build.sourceEncoding>UFT-8</project.build.sourceEncoding>
+        <maven.test.skip>false</maven.test.skip>
+    </properties>
+
+
     <dependencies>
         <dependency>
             <groupId>SeleniumAutomationTeam2</groupId>
@@ -18,27 +24,41 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.20.1</version>
+                <configuration>
+                    <suiteXmlFiles>
+                        <suiteXmlFiles>target/test-classes/FaceBookTestRunner.xml</suiteXmlFiles>
+                    </suiteXmlFiles>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>attach-sources</id>
+                        <goals>
+                            <goal>jar</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
 </project>
-<!--
-<build>
-<plugins>
-    <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <configuration>
-            <source>1.8</source>
-            <target>1.8</target>
-        </configuration>
-    </plugin>
-    <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-surefire-plugin</artifactId>
-        <version>2.20.1</version>
-        <configuration>
-            <suiteXmlFiles>
-                <suiteXmlFiles>target/test-classes/FaceBookTestRunner.xml</suiteXmlFiles>
-            </suiteXmlFiles>
-        </configuration>
-    </plugin>
-</plugins>
-</build>-->
+
+

@@ -16,7 +16,7 @@
       <module name="Amazon" target="1.5" />
       <module name="Chase" target="1.5" />
       <module name="FaceBookAutomation" target="1.5" />
-      <module name="FacebookTesting" target="1.5" />
+      <module name="FacebookTesting" target="1.8" />
       <module name="Generic" target="1.5" />
       <module name="TeamTwo" target="1.5" />
     </bytecodeTargetLevel>
