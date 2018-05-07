@@ -1,9 +1,8 @@
 package testFaceBook;
 
 import mainFB.FBmain;
-import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.annotations.*;
-import reporting.TestLogger;
 
 public abstract class testFBmain extends FBmain{
     //WebDriver driver= null;
@@ -11,20 +10,38 @@ public abstract class testFBmain extends FBmain{
     public abstract void launchFB();
 
     @Test(priority = 1, description = "Validate Title Page")
-    public abstract void validateTitlePage();
-
+    public void validateTitlePage(){
+        String titlePg = driver.getTitle();
+        Assert.assertTrue(titlePg.contains("Facebook"));
+    }
     @Test(dependsOnMethods = "validateTitlePage", description = "Validate URL")
-    public abstract void validateURL();
-
+    public String getCurrentPageUrl(){
+        String url = driver.getCurrentUrl();
+        Assert.assertTrue(url.contains("facebook"));
+        return url;
+    }
     @Test(dependsOnMethods = "validateURL", description = "Validate Page Source")
     public abstract void validatePageSource();
+
+
 
     @Test(dependsOnMethods = "validatePageSource", description = "Incorrect Email, Correct Password")
     public void IncorrectEmailCorrectPass(){
         typeByID("email", "abc123@hotmail.com");
         typeByXpath("//*[@id='pass']", "SocialMediaTeam2");
         clickOnElement("//*[@id='u_0_2']");
+        Assert.assertTrue();
     }
+
+
+
+
+
+
+
+
+
+
     @Test(dependsOnMethods = "IncorrectEmailCorrectPass", description = "Correct Email, Incorrect Password")
     public void CorrectEmailIncorrectPass(){
         typeByID("email","prisgray861@hotmail.com");

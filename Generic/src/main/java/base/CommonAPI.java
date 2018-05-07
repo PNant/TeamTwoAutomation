@@ -395,11 +395,8 @@ public class CommonAPI {
     }
     //Validate Title Page
     public void validateTitlePage(){
-        System.out.println(driver.getTitle());
-    }
-    //Validate URL
-    public void validateURL(){
-        System.out.println(driver.getCurrentUrl());
+        String titlePg = driver.getTitle();
+        return titlePg;
     }
     //Print out the page source
     public void validatePageSource(){

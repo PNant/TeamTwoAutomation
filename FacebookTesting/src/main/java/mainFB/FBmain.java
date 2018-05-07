@@ -1,7 +1,6 @@
 package mainFB;
 
 import base.CommonAPI;
-import org.openqa.selenium.By;
 
 public abstract class FBmain extends CommonAPI {
     //Open Browser
@@ -14,7 +13,7 @@ public abstract class FBmain extends CommonAPI {
     public abstract void validateURL();
 
     //Print out the page source
-    public abstract void validatePageSource();
+    public abstract String getCurrentPageUrl();
 
     public void IncorrectEmailCorrectPass(){
        typeByID("email", "abc123@hotmail.com");
