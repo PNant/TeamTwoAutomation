@@ -394,13 +394,14 @@ public class CommonAPI {
         driver.manage().timeouts().pageLoadTimeout(30,TimeUnit.SECONDS);
     }
     //Validate Title Page
-    public void validateTitlePage(){
+    public String validateTitlePage(){
         String titlePg = driver.getTitle();
         return titlePg;
     }
     //Print out the page source
-    public void validatePageSource(){
-        System.out.println(driver.getPageSource());
+    public String validatePageSource(){
+        String pgSource = driver.getPageSource();
+        return pgSource;
     }
     public void typeByName(String locator, String value){
         driver.findElement(By.name(locator)).clear();

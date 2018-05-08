@@ -3,8 +3,23 @@ package mainFB;
 import base.CommonAPI;
 
 public class facebookFriends extends CommonAPI {
+    //Search friend
+    public void searchFriends(){
+        typeByXpath("//*[@id='js_1l']","Michelle Sourdough");
+        clickOnElement("//*[@id=\"js_1y0\"]/div");
+    }
+    //Confirm correct friend and Submit, Else Navigate back
+    public void confirmFriend(){
+        String friendOne =  captureProfileName();
+        if(friendOne == "Michelle Sourdough"){
+            clickOnElement("//*[@id='u_ps_fetchstream_19_0_3']/button[1]");
+        }
+        else{navigateBack();
+        }
 
+    }
 }
+
 
 
 

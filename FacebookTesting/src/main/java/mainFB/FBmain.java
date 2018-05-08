@@ -7,13 +7,15 @@ public abstract class FBmain extends CommonAPI {
     public abstract void launchFB();
 
     //Validate Title Page
-    public abstract void validateTitlePage();
+    public abstract String validateTitlePage();
 
     //Validate URL
-    public abstract void validateURL();
-
+    public String  getCurrentPageUrl(){
+        String url = driver.getCurrentUrl();
+        return url;
+    }
     //Print out the page source
-    public abstract String getCurrentPageUrl();
+    public abstract String validatePageSource();
 
     public void IncorrectEmailCorrectPass(){
        typeByID("email", "abc123@hotmail.com");
@@ -48,19 +50,4 @@ public abstract class FBmain extends CommonAPI {
         typeByCSS("div._1mf._1mj", "It is Spring. It is 85 degrees today.");
         clickOnElement("//*[@id='js_u7']/div[2]/div[3]/div[2]/span/button/span");
     }
-    //Search friends
-    public void searchFriends(){
-        typeByXpath("//*[@id='js_1l']","Michelle Sourdough");
-        clickOnElement("//*[@id=\"js_1y0\"]/div");
-    }
-    //Confirm correct friend and Submit, Else Navigate back
-    public void confirmFriend(){
-        String friendOne =  captureProfileName();
-        if(friendOne == "Michelle Sourdough"){
-            clickOnElement("//*[@id='u_ps_fetchstream_19_0_3']/button[1]");
-        }
-        else{navigateBack();
-        }
-
-        }
-    }
+}

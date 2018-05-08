@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b9d9dfc7-461a-4289-ba50-ecc51142afba" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
     </list>
@@ -26,20 +27,32 @@
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="193">
-              <caret line="243" column="19" lean-forward="true" selection-start-line="241" selection-start-column="3" selection-end-line="243" selection-end-column="19" />
+              <caret line="163" column="19" selection-start-line="163" selection-start-column="15" selection-end-line="163" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testFBmain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
-                <element signature="e#15934#15935#0" expanded="true" />
-                <element signature="e#15992#15993#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
+                <element signature="e#1843#1844#0" expanded="true" />
+                <element signature="e#1904#1905#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testFBmain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java">
+      <file leaf-file-name="testFBfriends.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBfriends.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="476">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,11 +99,8 @@
       <file leaf-file-name="FBmain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -99,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -118,8 +128,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="XML Properties File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -131,9 +141,12 @@
       <find>browse</find>
       <find>typeby</find>
       <find>back</find>
-      <find>quit</find>
       <find>validate</find>
       <find>url</find>
+      <find>getcurre</find>
+      <find>getcurr</find>
+      <find>capturePro</find>
+      <find>quit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -152,15 +165,16 @@
         <option value="$PROJECT_DIR$/Amazon/src/main/java/mainJava/MainBrowser.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/testJava/TestBrowser.java" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testLogin.java" />
-        <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/facebookTestRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/FacebookTesting/pom.xml" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/resources/facebookTestRunner.xml" />
+        <option value="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java" />
-        <option value="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" />
+        <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java" />
+        <option value="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBfriends.java" />
       </list>
     </option>
   </component>
@@ -195,8 +209,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-18" />
-    <option name="width" value="958" />
+    <option name="x" value="-3" />
+    <option name="y" value="2" />
+    <option name="width" value="858" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -214,6 +229,65 @@
             <path>
               <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
               <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FacebookTesting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FacebookTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FacebookTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FacebookTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FacebookTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mainFB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FacebookTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FacebookTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FacebookTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testFaceBook" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
@@ -261,7 +335,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MobileAutomationFramework-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20114942" />
@@ -509,6 +583,7 @@
       <updated>1525017696984</updated>
       <workItem from="1525622250105" duration="7251000" />
       <workItem from="1525647770352" duration="5478000" />
+      <workItem from="1525736381822" duration="6187000" />
     </task>
     <servers />
   </component>
@@ -545,7 +620,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12745000" />
+    <option name="totallyTimeSpent" value="18932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -557,13 +632,13 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="7.320644E-4" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.030746706" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32980332" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2203514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25549048" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -572,6 +647,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.29954615" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.0892587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.093797274" />
@@ -579,7 +655,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.29954615" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,25 +672,21 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -921,45 +992,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI.java" />
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#1843#1844#0" expanded="true" />
+            <element signature="e#1904#1905#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
-          <caret line="243" column="19" lean-forward="true" selection-start-line="241" selection-start-column="3" selection-end-line="243" selection-end-column="19" />
-          <folding>
-            <element signature="e#15934#15935#0" expanded="true" />
-            <element signature="e#15992#15993#0" expanded="true" />
-          </folding>
+          <caret line="163" column="19" selection-start-line="163" selection-start-column="15" selection-end-line="163" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java">
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBfriends.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/MobileAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="476">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

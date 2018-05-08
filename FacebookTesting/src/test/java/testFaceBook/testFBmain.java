@@ -1,6 +1,8 @@
 package testFaceBook;
 
+import com.gargoylesoftware.htmlunit.Page;
 import mainFB.FBmain;
+import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
@@ -10,9 +12,10 @@ public abstract class testFBmain extends FBmain{
     public abstract void launchFB();
 
     @Test(priority = 1, description = "Validate Title Page")
-    public void validateTitlePage(){
+    public String validateTitlePage(){
         String titlePg = driver.getTitle();
         Assert.assertTrue(titlePg.contains("Facebook"));
+        return titlePg;
     }
     @Test(dependsOnMethods = "validateTitlePage", description = "Validate URL")
     public String getCurrentPageUrl(){
@@ -21,49 +24,31 @@ public abstract class testFBmain extends FBmain{
         return url;
     }
     @Test(dependsOnMethods = "validateURL", description = "Validate Page Source")
-    public abstract void validatePageSource();
-
-
-
-    @Test(dependsOnMethods = "validatePageSource", description = "Incorrect Email, Correct Password")
-    public void IncorrectEmailCorrectPass(){
-        typeByID("email", "abc123@hotmail.com");
-        typeByXpath("//*[@id='pass']", "SocialMediaTeam2");
-        clickOnElement("//*[@id='u_0_2']");
-        Assert.assertTrue();
+    public String validatePageSource() {
+        return null;
     }
-
-
-
-
-
-
-
-
-
-
+   @Test(dependsOnMethods = "validatePageSource", description = "Incorrect Email, Correct Password")
+    public void IncorrectEmailCorrectPass(){
+       Assert.assertTrue(driver.findElement(By.xpath("//*[@id=\"login_link\"]/div[1]/a")).isDisplayed());
+    }
     @Test(dependsOnMethods = "IncorrectEmailCorrectPass", description = "Correct Email, Incorrect Password")
     public void CorrectEmailIncorrectPass(){
-        typeByID("email","prisgray861@hotmail.com");
-        typeByXpath("//*[@id='pass']","abc123");
-        clickOnElement("//*[@id='u_0_2']");
+        Assert.assertTrue(driver.findElement(By.xpath("//*[@id=\"login_link\"]/div[1]/a")).isDisplayed());
     }
     @Test(dependsOnMethods = "CorrectEmailIncorrectPass", description = "Test Correct Credentials")
     public void correctCredentials(){
-        typeByID("email","prisgray861@hotmail.com");
-        typeByXpath("pass","SocialMediaTeam2");
-        clickOnElement("//*[@id='u_0_2']");
+        Assert.assertTrue(driver.findElement(By.xpath("//*[@id='navItem_4748854339\']/a/div")).isDisplayed());
     }
     @Test(dependsOnMethods = "correctCredentials", description = "Test to Enter into Profile")
     public void enterProfile(){
         clickOnElement("span._1vp5.f_click ");
     }
-
     @Test(dependsOnMethods = "enterProfile", description = "Test to capture Profile Name")
     public String captureProfileName() {
-        return null;
+       String profileName;
+       Assert.assertTrue(Boolean.parseBoolean(profileName = "TeamTwo SocialMedia"));
+       return profileName;
     }
-
     @Test(dependsOnMethods = "captureProfileName", description = "Test Temporary Bio Functionality")
     public void AddBio(){
         clickOnElement("//*[@id=\'profile_intro_card_bio\']/div/div/a");
@@ -75,20 +60,4 @@ public abstract class testFBmain extends FBmain{
         typeByCSS("div._1mf._1mj", "It is Spring. It is 85 degrees today.");
         clickOnElement("//*[@id='js_u7']/div[2]/div[3]/div[2]/span/button/span");
     }
-    @Test(dependsOnMethods = "submitPost", description = "Test for Friend Search Functionality")
-    public void searchFriends(){
-        typeByXpath("//*[@id='js_1l']","Michelle Sourdough");
-        clickOnElement("//*[@id=\"js_1y0\"]/div");
-    }
-    @Test(dependsOnMethods = "searchFriends", description = "Test to confirm friend search")
-    public void confirmFriend(){
-        String friendOne =  captureProfileName();
-        if(friendOne == "Michelle Sourdough"){
-            clickOnElement("//*[@id='u_ps_fetchstream_19_0_3']/button[1]");
-        }
-        else{navigateBack();
-        }
-    }
-    @AfterMethod
-    public abstract void afterMethod();
 }
