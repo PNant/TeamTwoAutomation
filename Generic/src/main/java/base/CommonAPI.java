@@ -6,6 +6,7 @@ import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.interactions.Actions;
@@ -99,7 +100,7 @@ public class CommonAPI {
     public void setUp(@Optional("false") boolean useCloudEnv, @Optional("false")String cloudEnvName,
                       @Optional("OS X") String os,@Optional("10") String os_version, @Optional("firefox") String browserName, @Optional("34")
                               String browserVersion, @Optional("http://www.amazon.com") String url)throws IOException {
-        System.setProperty("webdriver.chrome.driver", "/Users/peoplentech/eclipse-workspace-March2018/SeleniumProject1/driver/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/peoplentech/eclipse-workspace-March2018/SeleniumProject1/driver/chromedriver.exe");
         if(useCloudEnv==true){
             if(cloudEnvName.equalsIgnoreCase("browserstack")) {
                 getCloudDriver(cloudEnvName,browserstack_username,browserstack_accesskey,os,os_version, browserName, browserVersion);
@@ -121,7 +122,10 @@ public class CommonAPI {
             }else if(OS.equalsIgnoreCase("Windows")){
                 System.setProperty("webdriver.chrome.driver", "../Generic/browser-driver/chromedriver.exe");
             }
-            driver = new ChromeDriver();
+            //driver = new ChromeDriver();
+            ChromeOptions options = new ChromeOptions();
+            options.addArguments("--disable-notifications");
+            driver = new ChromeDriver(options);
         }else if(browserName.equalsIgnoreCase("firefox")){
             if(OS.equalsIgnoreCase("OS X")){
                 System.setProperty("webdriver.gecko.driver", "../Generic/browser-driver/geckodriver");
@@ -387,22 +391,7 @@ public class CommonAPI {
         boolean value = driver1.findElement(By.cssSelector(locator)).isDisplayed();
         return value;
     }
-    //LaunchFB
-    public void launchFB(){
-        driver.get("www.facebook.com/");
-        driver.manage().window().maximize();
-        driver.manage().timeouts().pageLoadTimeout(30,TimeUnit.SECONDS);
-    }
-    //Validate Title Page
-    public String validateTitlePage(){
-        String titlePg = driver.getTitle();
-        return titlePg;
-    }
-    //Print out the page source
-    public String validatePageSource(){
-        String pgSource = driver.getPageSource();
-        return pgSource;
-    }
+
     public void typeByName(String locator, String value){
         driver.findElement(By.name(locator)).clear();
         driver.findElement(By.name(locator)).sendKeys(value);
@@ -414,10 +403,5 @@ public class CommonAPI {
     public void typeByCSS(String locator, String value){
         driver.findElement(By.cssSelector(locator)).clear();
         driver.findElement(By.cssSelector(locator)).sendKeys(value);
-    }
-    //Confirm Profile Page/Capture the Profile name
-    public String captureProfileName (){
-        String profileName = driver.findElement(By.xpath("//*[@id=\'fb-timeline-cover-name\']/a")).getAttribute("href");
-        return profileName;
     }
 }
