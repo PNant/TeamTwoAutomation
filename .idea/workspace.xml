@@ -2,94 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9d9dfc7-461a-4289-ba50-ecc51142afba" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/Amazon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Amazon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-testJava.TestBrowser.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-testJava.TestBrowser.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/testJava.TestBrowser/Command line test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/testJava.TestBrowser/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/testJava.TestBrowser/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/testJava.TestBrowser/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/testJava.TestBrowser/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/testJava.TestBrowser/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/testJava.TestBrowser/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/testJava.TestBrowser/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/testJava.TestBrowser/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/testJava.TestBrowser/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/testJava.TestBrowser/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testJava.TestBrowser.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testJava.TestBrowser/Command line test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testJava.TestBrowser/Command line test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testJava.TestBrowser/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-failed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Chase/Chase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chase/Chase.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FacebookTesting/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/Extent-Report/ExtentReport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FacebookTesting/FacebookTesting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/FacebookTesting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/GoogleSheetsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/GoogleSheetsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/TestGoogleSheetsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/TestGoogleSheetsPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBfriends.java" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBfriends.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/src/test/resources/facebookTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/src/test/resources/FBmainTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/FacebookTesting-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/FacebookTesting-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/classes/mainFB/FBmain.class" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/classes/mainFB/FBmain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/classes/mainFB/facebookFriends.class" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/classes/mainFB/facebookFriends.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/TestSuite.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/facebookTestRunner/testFBmain.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/facebookTestRunner/testFBmain.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/junitreports/TEST-testFaceBook.testFBmain.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/facebookTestRunner/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/facebookTestRunner/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/facebookTestRunner/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/facebookTestRunner/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/facebookTestRunner/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/facebookTestRunner/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/facebookTestRunner/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/facebookTestRunner/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/facebookTestRunner/testFBmain.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/facebookTestRunner/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/facebookTestRunner/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/test-classes/facebookTestRunner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/test-classes/testFaceBook/testFBmain.class" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/test-classes/testFaceBook/testFBmain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/classes/googleSheetsPackage/GoogleSheetsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/classes/googleSheetsPackage/GoogleSheetsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/classes/googleSheetsPackage/TestGoogleSheetsPage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/classes/googleSheetsPackage/TestGoogleSheetsPage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/classes/googleSheetsPackage/TestGoogleSheetsPage$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/classes/googleSheetsPackage/TestGoogleSheetsPage$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/classes/googleSheetsPackage/TestGoogleSheetsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/classes/googleSheetsPackage/TestGoogleSheetsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/classes/mainFB/FBmain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/classes/mainFB/facebookFriends.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FacebookTesting/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FacebookTesting/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeamTwo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TeamTwo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -110,22 +42,22 @@
       <file leaf-file-name="facebookFriends.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="375">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="facebookFriendsTestRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/resources/facebookFriendsTestRunner.xml">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FacebookTesting/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="343">
+              <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -133,26 +65,8 @@
       <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="25" selection-start-line="29" selection-start-column="12" selection-end-line="33" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoogleSheetReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleapis/GoogleSheetReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="307">
+              <caret line="213" column="73" selection-start-line="212" selection-start-column="4" selection-end-line="213" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,25 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoogleSheetsPage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/GoogleSheetsPage.java">
+      <file leaf-file-name="shoppingExperience.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Target/src/main/java/forEyes/shoppingExperience.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="51" column="22" lean-forward="true" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestGoogleSheetsPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/TestGoogleSheetsPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="459">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -186,25 +86,65 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Maven__com_google_apis_google_api_services_sheets_v4_rev516_1_23_0.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__com_google_apis_google_api_services_sheets_v4_rev516_1_23_0.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="DataReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <file leaf-file-name="FBmain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="-7">
+              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoogleSheetsTestRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/resources/GoogleSheetsTestRunner.xml">
+      <file leaf-file-name="PurchaseSelectionTestRunner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Target/src/test/resources/PurchaseSelectionTestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+              <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testPurchaseSelection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Target/src/test/java/testForEyes/testPurchaseSelection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testShoppingExperience.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Target/src/test/java/testForEyes/testShoppingExperience.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShoppingExperienceTestRunner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Target/src/test/resources/ShoppingExperienceTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="purchaseSelection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Target/src/main/java/forEyes/purchaseSelection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -245,6 +185,12 @@
       <find>typebyid</find>
       <find>typeByIdNEnter</find>
       <find>title</find>
+      <find>clickby</find>
+      <find>chrome</find>
+      <find>google</find>
+      <find>wai</find>
+      <find>wait</find>
+      <find>enter</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -263,22 +209,35 @@
         <option value="$PROJECT_DIR$/Amazon/src/main/java/mainJava/MainBrowser.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/testJava/TestBrowser.java" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testLogin.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/facebookTestRunner.xml" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
-        <option value="$PROJECT_DIR$/FacebookTesting/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/GoogleAPIs/GoogleSheetReader.java" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/resources/facebookTestRunner.xml" />
-        <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/resources/FBmainTestRunner.xml" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/resources/facebookFriendsTestRunner.xml" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBfriends.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java" />
-        <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/GoogleSheetsPage.java" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/test/resources/GoogleSheetsTestRunner.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/googleSheetsAPI.java" />
+        <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/automationTest.java" />
+        <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/GoogleSheetsPage.java" />
         <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/TestGoogleSheetsPage.java" />
+        <option value="$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java" />
+        <option value="$PROJECT_DIR$/Target/pom.xml" />
+        <option value="$PROJECT_DIR$/Target/src/test/java/testTargetFunctions/testTargetSignIn.java" />
+        <option value="$PROJECT_DIR$/Target/src/main/java/targetMainFunctions/targetSignIn.java" />
+        <option value="$PROJECT_DIR$/Target/src/test/resources/PurchaseSelectionTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Target/src/main/java/targetMainFunctions/purchaseSelection.java" />
+        <option value="$PROJECT_DIR$/Target/src/test/java/testTargetFunctions/testPurchaseSelection.java" />
+        <option value="$PROJECT_DIR$/Target/src/test/resources/TargetSignInTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Target/src/main/java/forEyes/filterEyeglasses.java" />
+        <option value="$PROJECT_DIR$/Target/src/test/java/testForEyes/testFilterEyeglasses.java" />
+        <option value="$PROJECT_DIR$/Target/src/test/resources/ShoppingExperienceTestRunner.xml" />
+        <option value="$PROJECT_DIR$/Target/src/main/java/forEyes/shoppingExperience.java" />
+        <option value="$PROJECT_DIR$/FacebookTesting/pom.xml" />
       </list>
     </option>
   </component>
@@ -289,6 +248,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -302,6 +266,15 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="amazon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FacebookTesting" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="FacebookTesting" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -313,8 +286,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-6" />
-    <option name="width" value="631" />
+    <option name="x" value="70" />
+    <option name="y" value="13" />
+    <option name="width" value="718" />
     <option name="height" value="663" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -327,7 +301,6 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -375,6 +348,15 @@
               <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
               <item name="FacebookTesting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mainFB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="FacebookTesting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -402,95 +384,35 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="googleapis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TeamTwoAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TeamTwoAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utility" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MobileAutomationFramework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20114942" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation\FacebookTesting\src\test\resources" />
-      <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation\FacebookTesting" />
-      <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation" />
-      <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation-priscilla\FacebookTesting" />
-      <recent name="C:\PeopleNTech\develop\TeamTwo\Amazon\src\test" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation\Target\src" />
       <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation\FacebookTesting\src\test\resources" />
       <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation\FacebookTesting\src\test" />
       <recent name="C:\PeopleNTech\develop\TeamTwo\Generic\browser-driver" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation\Target\src\test\resources" />
+      <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation\Target" />
+      <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation\Target\src\test" />
+      <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation\FacebookTesting\src\test\resources" />
+      <recent name="C:\Users\prisc\IdeaProjects\TeamTwoAutomation\FacebookTesting" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -505,7 +427,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/GoogleSheetsTestRunner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/ShoppingExperienceTestRunner.xml">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -576,11 +498,11 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FacebookTesting" />
+    <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/PurchaseSelectionTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ForEyes" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/FacebookTesting/src/test/resources/facebookTestRunner.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Target/src/test/resources/PurchaseSelectionTestRunner.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -599,22 +521,39 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestBrowser" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/ShoppingExperienceTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ForEyes" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="testJava" />
-      <option name="MAIN_CLASS_NAME" value="testJava.TestBrowser" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Target/src/test/resources/ShoppingExperienceTestRunner.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/TargetSignInTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ForEyes" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Target/src/test/resources/TargetSignInTestRunner.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -650,35 +589,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="testFBmain" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FacebookTesting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testFaceBook.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="testFaceBook" />
-      <option name="MAIN_CLASS_NAME" value="testFaceBook.testFBmain" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -693,19 +603,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookTestRunner.xml" />
-      <item itemvalue="TestNG.testFBmain" />
-      <item itemvalue="TestNG.TestBrowser" />
       <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookFriendsTestRunner.xml" />
       <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/GoogleSheetsTestRunner.xml" />
+      <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/TargetSignInTestRunner.xml" />
+      <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/PurchaseSelectionTestRunner.xml" />
+      <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/ShoppingExperienceTestRunner.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/ShoppingExperienceTestRunner.xml" />
+        <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/PurchaseSelectionTestRunner.xml" />
+        <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/TargetSignInTestRunner.xml" />
         <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/GoogleSheetsTestRunner.xml" />
         <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookFriendsTestRunner.xml" />
-        <item itemvalue="TestNG.C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookTestRunner.xml" />
-        <item itemvalue="TestNG.testFBmain" />
-        <item itemvalue="TestNG.TestBrowser" />
       </list>
     </recent_temporary>
   </component>
@@ -735,48 +645,50 @@
       <workItem from="1526199309600" duration="1645000" />
       <workItem from="1526407690526" duration="14713000" />
       <workItem from="1526507537078" duration="14467000" />
-      <workItem from="1526595139402" duration="19798000" />
+      <workItem from="1526595139402" duration="20417000" />
+      <workItem from="1526655767850" duration="76000" />
+      <workItem from="1526658325865" duration="306000" />
+      <workItem from="1526668837217" duration="31792000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_FacebookTesting_src_test_resources_facebookTestRunner_xml - 2018.05.17 at 19h 36m 08s.xml">
-      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_Target_src_test_resources_TargetSignInTestRunner_xml - 2018.05.19 at 04h 50m 33s.xml">
+      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/TargetSignInTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_FacebookTesting_src_test_resources_facebookTestRunner_xml - 2018.05.17 at 19h 38m 16s.xml">
-      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_Target_src_test_resources_PurchaseSelectionTestRunner_xml - 2018.05.19 at 04h 55m 48s.xml">
+      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/PurchaseSelectionTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_FacebookTesting_src_test_resources_facebookFriendsTestRunner_xml - 2018.05.17 at 20h 13m 12s.xml">
-      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookFriendsTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_Target_src_test_resources_PurchaseSelectionTestRunner_xml - 2018.05.19 at 07h 02m 11s.xml">
+      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/PurchaseSelectionTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_FacebookTesting_src_test_resources_facebookFriendsTestRunner_xml - 2018.05.17 at 20h 14m 47s.xml">
-      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookFriendsTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_Target_src_test_resources_PurchaseSelectionTestRunner_xml - 2018.05.19 at 07h 04m 20s.xml">
+      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/PurchaseSelectionTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_FacebookTesting_src_test_resources_facebookFriendsTestRunner_xml - 2018.05.17 at 20h 16m 30s.xml">
-      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookFriendsTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_Target_src_test_resources_PurchaseSelectionTestRunner_xml - 2018.05.19 at 07h 06m 59s.xml">
+      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/PurchaseSelectionTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_FacebookTesting_src_test_resources_facebookFriendsTestRunner_xml - 2018.05.17 at 20h 18m 08s.xml">
-      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookFriendsTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_Target_src_test_resources_PurchaseSelectionTestRunner_xml - 2018.05.19 at 07h 09m 01s.xml">
+      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/PurchaseSelectionTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_FacebookTesting_src_test_resources_facebookFriendsTestRunner_xml - 2018.05.17 at 20h 20m 51s.xml">
-      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookFriendsTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_Target_src_test_resources_PurchaseSelectionTestRunner_xml - 2018.05.19 at 07h 16m 20s.xml">
+      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/PurchaseSelectionTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_FacebookTesting_src_test_resources_facebookFriendsTestRunner_xml - 2018.05.17 at 20h 27m 56s.xml">
-      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookFriendsTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_Target_src_test_resources_PurchaseSelectionTestRunner_xml - 2018.05.19 at 07h 42m 33s.xml">
+      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/PurchaseSelectionTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_FacebookTesting_src_test_resources_facebookFriendsTestRunner_xml - 2018.05.17 at 21h 39m 45s.xml">
-      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/facebookFriendsTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_Target_src_test_resources_PurchaseSelectionTestRunner_xml - 2018.05.19 at 08h 05m 20s.xml">
+      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/PurchaseSelectionTestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_FacebookTesting_src_test_resources_GoogleSheetsTestRunner_xml - 2018.05.18 at 07h 02m 30s.xml">
-      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/FacebookTesting/src/test/resources/GoogleSheetsTestRunner.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_prisc_IdeaProjects_TeamTwoAutomation_Target_src_test_resources_ShoppingExperienceTestRunner_xml - 2018.05.19 at 08h 55m 37s.xml">
+      <configuration name="C:/Users/prisc/IdeaProjects/TeamTwoAutomation/Target/src/test/resources/ShoppingExperienceTestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72928000" />
+    <option name="totallyTimeSpent" value="105721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -785,21 +697,21 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.45241582" side_tool="true" weight="0.3237519" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.0" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="6" visible="true" weight="0.021229869" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5475842" visible="true" weight="0.42057487" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5475842" visible="true" weight="0.301059" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49926794" weight="0.2708018" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8344519" visible="true" weight="0.24524158" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8344519" visible="true" weight="0.23645681" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" sideWeight="0.1655481" side_tool="true" weight="0.19838946" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2632375" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1785174" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -807,6 +719,36 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5475842" visible="true" weight="0.5900151" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8344519" visible="true" weight="0.21156661" />
+      <window_info id="Structure" order="1" sideWeight="0.1655481" side_tool="true" weight="0.19838946" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2632375" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49926794" weight="0.2708018" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.45241582" side_tool="true" weight="0.3237519" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32829046" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.0" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -823,6 +765,18 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Target/src/main/java/forEyes/purchaseSelection.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Target/src/main/java/forEyes/purchaseSelection.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
           <line>170</line>
@@ -832,95 +786,10 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="28" />
+      <option name="time" value="31" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chase/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/target/classes/mainJava/MainBrowser.class" />
-    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="19" selection-start-line="13" selection-start-column="2" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/mainJava/MainBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testJava/TestBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testJava/TestBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/mainJava/MainBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/target/classes/mainJava/MainBrowser.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/base/CommonAPI.java" />
     <entry file="file://$PROJECT_DIR$/Chase/pom.xml">
@@ -1003,13 +872,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0.jar!/org/openqa/selenium/remote/service/DriverCommandExecutor.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="49">
@@ -1031,28 +893,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FacebookTesting/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FacebookTesting/report-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.11.0/selenium-api-3.11.0.jar!/org/openqa/selenium/By.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="65" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="e#6166#6167#0" expanded="true" />
-            <element signature="e#6228#6229#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1063,58 +907,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1530#1531#0" expanded="true" />
-            <element signature="e#1586#1587#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/resources/FBmainTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBfriends.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="25" selection-start-line="29" selection-start-column="12" selection-end-line="33" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1125,22 +921,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/libraries/Maven__com_google_apis_google_api_services_sheets_v4_rev516_1_23_0.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/resources/GoogleSheetsTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1151,33 +937,209 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/googleapis/GoogleSheetReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="341">
+          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBfriends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/resources/client_secret.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/googleSheetsAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="119" column="2" selection-start-line="119" selection-start-column="2" selection-end-line="119" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#4393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/automationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/GoogleSheetsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1373#1374#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/TestGoogleSheetsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/googleSheetsPackage/GoogleSheetsPage.java">
+    <entry file="file://$PROJECT_DIR$/Target/src/test/resources/client_secret.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target/src/main/targetSignIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="51" column="22" lean-forward="true" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/test/java/testFaceBook/testFBmain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="10" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target/screenshots/testSignIn (05.19.2018-04">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target/report-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/report-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="213" column="73" selection-start-line="212" selection-start-column="4" selection-end-line="213" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target/src/test/resources/PurchaseSelectionTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target/src/test/java/testForEyes/testPurchaseSelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target/src/main/java/forEyes/purchaseSelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target/src/test/java/testForEyes/testShoppingExperience.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target/src/test/resources/ShoppingExperienceTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Target/src/main/java/forEyes/shoppingExperience.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/FBmain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/src/main/java/mainFB/facebookFriends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FacebookTesting/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -1190,7 +1152,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.43566176" />
+                <option value="0.20114942" />
               </list>
             </option>
           </splitter-proportions>
@@ -1202,7 +1164,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.43566176" />
+                <option value="0.20114942" />
               </list>
             </option>
           </splitter-proportions>
@@ -1213,7 +1175,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.43566176" />
+                <option value="0.20114942" />
               </list>
             </option>
           </splitter-proportions>
@@ -1225,7 +1187,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.43566176" />
+                <option value="0.20114942" />
               </list>
             </option>
           </splitter-proportions>
@@ -1238,6 +1200,7 @@
             <option name="proportions">
               <list>
                 <option value="0.20114942" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1261,7 +1224,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.43566176" />
+                <option value="0.20114942" />
               </list>
             </option>
           </splitter-proportions>

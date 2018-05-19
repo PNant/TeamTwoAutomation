@@ -1,16 +1,22 @@
 package googleSheetsPackage;
 
+import com.google.api.services.sheets.v4.Sheets;
+import com.google.api.services.sheets.v4.SheetsScopes;
+import com.google.api.services.sheets.v4.model.ValueRange;
 import base.CommonAPI;
 import com.google.api.services.sheets.v4.model.*;
 import com.google.api.services.sheets.v4.Sheets;
+import googleapis.GoogleSheetReader;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import static googleapis.GoogleSheetReader.getSheetsService;
+import static googleapis.GoogleSheetReader.*;
 
 public class GoogleSheetsPage extends CommonAPI {
     public void typeByIdNEnter(String locator, String value) {
@@ -22,6 +28,17 @@ public class GoogleSheetsPage extends CommonAPI {
     }
     public void clearInputFieldById(String locator){
         driver.findElement(By.id(locator)).clear();
+    }
+
+    //Login
+    public void correctCredentials(){
+        typeByID("email","prisgray861@hotmail.com");
+        typeByID("pass","SocialMediaTeam2");
+        clickOnElement("//input[@data-testid='royal_login_button']");
+    }
+    //Click on Profile Name, css Selector
+    public void enterProfile(){
+        clickOnElement("//span[@class='_1vp5']");
     }
 
 

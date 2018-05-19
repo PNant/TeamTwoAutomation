@@ -9,6 +9,7 @@
         <module name="Amazon" />
         <module name="Chase" />
         <module name="FacebookTesting" />
+        <module name="ForEyes" />
         <module name="Generic" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="Chase" target="1.5" />
       <module name="FaceBookAutomation" target="1.5" />
       <module name="FacebookTesting" target="1.8" />
+      <module name="ForEyes" target="1.8" />
       <module name="Generic" target="1.5" />
       <module name="TeamTwo" target="1.5" />
     </bytecodeTargetLevel>

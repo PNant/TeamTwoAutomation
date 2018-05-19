@@ -40,9 +40,9 @@ public class FBmain extends CommonAPI {
        clickOnElement("//button[@id='loginbutton']");
     }
     public void correctCredentials(){
-       //typeByID("email","prisgray861@hotmail.com");
-       typeByID("pass","SocialMediaTeam2");
-       clickOnElement("//button[@id='loginbutton']");
+        //typeByID("email","prisgray861@hotmail.com");
+        typeByID("pass","SocialMediaTeam2");
+        clickOnElement("//button[@id='loginbutton']");
     }
     //Click on Profile Name, css Selector
     public void enterProfile(){

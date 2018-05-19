@@ -12,6 +12,7 @@ public class TestGoogleSheetsPage extends GoogleSheetsPage {
     // AMZ_TS5: Use google sheets test data to search multiple items
     // AMZ_TS5_TC1: Search multiple items by name from a google sheets file
     @Test
+
     public void amzTS05TC01() throws IOException, InterruptedException {
         TestLogger.log(convertToString("C: " + getClass().getSimpleName()) + " - M: " + convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         int i = 0;
@@ -43,3 +44,5 @@ public class TestGoogleSheetsPage extends GoogleSheetsPage {
         System.out.println("Test2 Passed");
     }
 }
+
+

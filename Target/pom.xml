@@ -9,14 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>FacebookTesting</artifactId>
-
-    <!--<properties>
-        <project.build.sourceEncoding>UFT-8</project.build.sourceEncoding>
-        <maven.test.skip>false</maven.test.skip>
-    </properties>-->
-
-
+    <artifactId>Target</artifactId>
     <dependencies>
         <dependency>
             <groupId>SeleniumAutomationTeam2</groupId>
@@ -41,7 +34,7 @@
                 <version>2.20.1</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFiles>target/test-classes/facebookTestRunner.xml</suiteXmlFiles>
+                        <suiteXmlFiles>target/test-classes/FaceBookTestRunner.xml</suiteXmlFiles>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
@@ -59,6 +52,5 @@
             </plugin>-->
         </plugins>
     </build>
+
 </project>
-
-
